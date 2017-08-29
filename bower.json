@@ -1,6 +1,6 @@
 {
-  "name": "ngLinq",
-  "version": "1.0.1",
+  "name": "angular-linq",
+  "version": "1.0.5",
   "homepage": "https://github.com/alansferreira/ngLinq",
   "authors": [
     "Alan <alan.da.silva.ferreira@hotmail.com>"
@@ -14,5 +14,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "linqjs": "^3.0.5",
+    "angular": "^1.6.6"
+  }
 }

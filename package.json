@@ -1,6 +1,6 @@
 {
-  "name": "ngLinq",
-  "version": "1.0.1",
+  "name": "angular-linq",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,11 @@
   "bugs": {
     "url": "https://github.com/alansferreira/ngLinq/issues"
   },
-  "homepage": "https://github.com/alansferreira/ngLinq#readme", 
+  "homepage": "https://github.com/alansferreira/ngLinq#readme",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "linq": "3.0.8"
+  },
   "devDependencies": {
     "gulp": "3.9.1",
     "gulp-run": "1.7.1",
@@ -27,5 +31,4 @@
     "gulp-uglify": "^2.1.2",
     "gulp-clean-css": "3.2.0"
   }
-
 }
