@@ -4,17 +4,17 @@
 **NodeJs**
 
 ```
-npm i angular-linq
+npm i ng-linq
 ```
 
 **Bower**
 ```
-bower i angular-linq
+bower i ng-linq
 ```
 
 **Html**
 ```html
-<script src='bower_components/angular-linq/dist/ngLinq.min.js'>
+<script src='bower_components/angular-linq/dist/ng-linq.min.js'>
 ```
 
 
@@ -24,7 +24,7 @@ bower i angular-linq
 <script src='bower_components/angular/angular.min.js'>
 <script src='bower_components/linqjs/linq.min.js'>
 
-<script src='bower_components/angular-linq/dist/ngLinq.min.js'>
+<script src='bower_components/angular-linq/dist/ng-linq.min.js'>
 
 <script>
 angular('myApp', ['ngLinq'])

@@ -1,6 +1,6 @@
 {
   "name": "ng-linq",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "",
   "main": "src/ng-linq.js",
   "scripts": {
