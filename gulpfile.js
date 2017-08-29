@@ -17,7 +17,7 @@ gulp.task('bump', function(){
 
 gulp.task('compress-js', function () {
   // returns a Node.js stream, but no handling of error messages
-  return gulp.src('src/angular-linq.js')
+  return gulp.src('src/ng-linq.js')
         .pipe(uglify())
         .pipe(rename({ suffix: '.min' }))
         .pipe(gulp.dest('./dist'));
