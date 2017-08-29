@@ -1,8 +1,8 @@
 {
   "name": "ng-linq",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
-  "main": "index.js",
+  "main": "src/ng-linq.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,12 +1,12 @@
 {
   "name": "ng-linq",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "homepage": "https://github.com/alansferreira/ngLinq",
   "authors": [
     "Alan <alan.da.silva.ferreira@hotmail.com>"
   ],
   "description": "",
-  "main": "dist/ngLinq.min.js",
+  "main": "src/ng-linq.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
